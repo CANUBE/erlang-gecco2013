@@ -1,0 +1,91 @@
+body {
+    background-color:#fff;
+}
+
+h1 { 
+     font-size: 3em;
+     font-family: "Alef", sans-serif;
+     color: black;
+}
+
+ul { 
+      background-color:rgba(240,230,220,0.5);
+}
+
+ul.dark { 
+      background-color:rgba(240,230,220,0.75);
+}
+
+table { 
+      background-color:rgba(230,220,250,0.5);
+           font-size: 2em;
+        margin-left:  auto;
+        margin-right:  auto;
+}
+
+li { 
+     font-size: 2em;
+     font-family: "Alef", sans-serif;
+     color:#1F1209;
+         padding: 10px;
+     }
+
+td,th { 
+     padding: 10px;
+ }
+
+h2{ 
+     font-size: 2em;
+     font-family: "Alef", sans-serif;
+     color: DarkGray;
+     background-color:rgba(250,240,230,0.5);
+     padding: 10px;
+}
+
+h3 { 
+     font-size: 1.5em;
+     font-family: "Alef", sans-serif;
+     color: DarkGray;
+     padding: 5px;
+}
+
+span.ugr { 
+           color: Red;
+}
+
+span.uci{ 
+          color: #002A8F;
+ }
+
+h2.figures { 
+        font-size: 2.5em;
+        font-family: "Alef", sans-serif;
+        color: DarkSlateGray;  
+        }
+
+p {
+    font-size: 2em;
+    font-family: "Telex", sans-serif;
+    color: #2f4f4f ;
+ }
+
+p.image { 
+          position: absolute;
+          bottom:  0;
+          left: 0;
+          font-size: 1em;
+          background-color:rgba(230,240,250,0.5);
+ }
+
+.step
+{
+	position: relative;
+	width: 1024px;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: #FAF0E6;
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+}
+
